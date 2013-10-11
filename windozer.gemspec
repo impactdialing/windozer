@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Windozer::VERSION
   spec.authors       = ["Jeremiah Heller"]
   spec.email         = ["jeremiah@impactdialing.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Cleans text based files of invalid UTF-8 characters and infamous carriage returns.}
+  spec.summary       = %q{Cleans text based files of invalid UTF-8 characters and infamous carriage returns.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
